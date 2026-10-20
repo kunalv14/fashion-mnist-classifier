@@ -5,9 +5,9 @@ TensorFlow/Keras. The best model, a convolutional neural network with padding an
 dropout, reaches **91.51% test accuracy** on the 10,000-image Fashion-MNIST test set.
 
 **[Live demo](https://huggingface.co/spaces/kverma19/fashion-mnist-classifier)** ·
-**[Open the notebook in Colab](https://colab.research.google.com/github/kunalv14/fashion-mnist-classifier/blob/main/notebooks/fashion_mnist_experiments.ipynb)**
+**[Open the notebook in Colab](https://colab.research.google.com/github/kunalv14/fashion-mnist-classifier/blob/main/fashion_mnist_experiments.ipynb)**
 
-![Test accuracy of all seven models](docs/results.png)
+![Test accuracy of all seven models](results.png)
 
 ## What the experiments show
 
