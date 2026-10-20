@@ -1,0 +1,8 @@
+rank,experiment,group,optimizer,learning_rate,parameters,test_accuracy
+1,cnn_final,CNN,adam,0.001,421642,0.9151
+2,cnn_baseline,CNN,adam,0.001,173930,0.9032
+3,cnn_two_conv,CNN,adam,0.001,121930,0.9026
+4,cnn_final_adam_lr0_01,Optimizer,adam,0.01,421642,0.902
+5,dense_improved,Dense,adam,0.001,235146,0.8824
+6,dense_baseline,Dense,adam,0.001,50890,0.8695
+7,cnn_final_sgd_lr0_01,Optimizer,sgd,0.01,421642,0.8443
