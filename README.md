@@ -127,7 +127,3 @@ resizes), so product-style photos of one item on a plain background work best.
 ## Tech
 
 Python · TensorFlow / Keras · NumPy · pandas · Matplotlib · Gradio · Hugging Face Spaces
-
-## License
-
-MIT
